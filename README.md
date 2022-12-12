@@ -1,4 +1,10 @@
 # Yuki Chan The Auto Pentest
+cd Yuki-Chan-The-auto-Pentest
+chmod 777 joomscan wafninja install-perl-module.sh yuki.sh
+chmod 777 requirements.txt
+pip install -r requirements.txt
+./install-perl-module.sh
+./yuki.sh
 
 ![SS](http://www.yeahhub.com/wp-content/uploads/2017/09/Yuki-Chan-Automated-Pentest-tool-322x230.png)
 
